@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.PR7" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="android:colorBackground">@color/dark_background_lightened</item>
+
+        <item name="colorSurface">@color/dark_surface_lightened</item>
+
+        <item name="colorOnSurface">@color/white</item>
+        <item name="colorOnBackground">@color/white</item>
+    </style>
+</resources>

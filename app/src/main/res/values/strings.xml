@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PR7</string>
+    <string name="registration"><b>Регистрация</b></string>
+    <string name="help">Помощь</string>
+    <string name="signIn">Вход</string>
+    <string name="enterName">Введите ваше имя</string>
+    <string name="enterSurname">Введите вашу фамилию</string>
+    <string name="enterNumberPhone">Введите ваш контактный номер</string>
+    <string name="btnRegistration">Зарегистрироваться</string>
+    <string name="privacyPolicy">Согласен(-а) с условиями использования и политикой конфидециальности</string>
+    <string name="name">Иван,</string>
+    <string name="welcome">приветствуем в нашем приложении</string>
+    <string name="click">Клик</string>
+    <string name="offers">Предложения</string>
+    <string name="Moscow">Москва</string>
+    <string name="spb">Санкт-Питербург</string>
+    <string name="nsk">Новосибирск</string>
+    <string name="Vladivostok">Владивосток</string>
+    <string name="detailedInformation">Подробная информация</string>
+    <string name="people1">Robert Fox</string>
+    <string name="people2">Albert Flores</string>
+    <string name="people3">Kathryn Murphy</string>
+    <string name="people4">Courtney Henry</string>
+    <string name="people5">Eleanor Pena</string>
+    <string name="people6">Marvin McKinney</string>
+    <string name="people7">Darlene Robertson</string>
+    <string name="people8">Bessie Cooper</string>
+</resources>
